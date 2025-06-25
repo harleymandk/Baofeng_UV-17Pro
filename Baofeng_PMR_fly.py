@@ -1,3 +1,4 @@
+#For making CSV file to CHIRP and upload it to the Baofeng UV17
 import csv
 
 filename = "radio_channels_complete.csv"
